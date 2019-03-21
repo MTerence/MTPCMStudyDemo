@@ -1,0 +1,2 @@
+# MTPCMStudyDemo
+将PCM16LE双声道数据中左声道和右声道的数据分离成两个文件
